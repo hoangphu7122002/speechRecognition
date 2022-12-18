@@ -1,0 +1,12 @@
+torch
+streamlit
+underthesea
+librosa
+transformers 
+soundfile 
+datasets 
+pyctcdecode==0.1.0
+pydub
+pypi-kenlm
+streamlit_ext
+pymongo
